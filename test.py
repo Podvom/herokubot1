@@ -1,8 +1,8 @@
 import telebot, random
 
-TOKEN = '779301632:AAFgNRWhrHd3TN5nX7XYvwX1jmUi3HMTRVQ'
+TOKEN = '5103049162:AAE49wuhia1kV7X81wjujdVLbrMOGWw6BxM 
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(5103049162:AAE49wuhia1kV7X81wjujdVLbrMOGWw6BxM)
 
 smiles = [
 '😀',
